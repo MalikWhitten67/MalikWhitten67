@@ -5,7 +5,7 @@
 <h4>Example Of Nimp:</h4>
 
 ```html
-<head>
+
 <nimp-import package="utils" extension="bungie" viewport="4" ></nimp-import >
 </head>
 <nimp-v1 import="base" comment="Add comments to dividers">
