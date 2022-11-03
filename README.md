@@ -3,7 +3,7 @@
  <h1>About Me</h1>
   <div id="badges">
  
-  <img src="https://img.shields.io/github/languages/top/MalikWhitten67/MalikWhitten67?logo=HTML&style=flat-square" alt="Html Badge"/>
+  <img src="https://img.shields.io/badge/HTML-Markup-orange?style=for-the-badge&logo=HTML" alt="Html Badge"/>
   <img src="https://img.shields.io/badge/Javascript-js-brightgreen?style=for-the-badge&logo=javascript" alt="Js Badge"/>
    <img src="https://img.shields.io/badge/CSS-css-yellow" alt="CSS Badge"/>
 </div>
