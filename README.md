@@ -27,4 +27,4 @@
  <p>Aswell as scratch for web </p>
  </body>
  <h1>My Stats</h1>
-<embed src="https://github-readme-stats.vercel.app/api?username=MalikWhitten67">
+[![Maliks GitHub stats](https://github-readme-stats.vercel.app/api?username=MalikWhitten67)]
