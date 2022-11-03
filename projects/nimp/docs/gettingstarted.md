@@ -4,8 +4,7 @@
 <p> Nimp will not work if package is not = to utils</p>
   ```html
 
-  <nimp-import package="utils" extension="bungie" viewport="4" ></nimp-import >
-  ```
+  <nimp-import package="utils" extension="bungie" viewport="4" ></nimp-import >```
   
   
 <p> Extending the class to bungie allows you to use tags like </p>
