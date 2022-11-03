@@ -1,11 +1,12 @@
 
 <body>
  <h1>About Me</h1>
+ <h3>Languages</h3>
   <div id="badges">
  
   <img src="https://img.shields.io/badge/HTML-Markup-orange?style=for-the-badge&logo=HTML" alt="Html Badge"/>
   <img src="https://img.shields.io/badge/Javascript-js-brightgreen?style=for-the-badge&logo=javascript" alt="Js Badge"/>
-   <img src="https://img.shields.io/badge/CSS-css-yellow" alt="CSS Badge"/>
+   <img src="https://img.shields.io/badge/CSS-%20StyleSheet-yellow?style=for-the-badge&logo=SCASS" alt="CSS Badge"/>
 </div>
  <h3><strong>Where I am From</strong></h3>
  <p>United States</p>
