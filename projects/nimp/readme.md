@@ -17,4 +17,3 @@
 </nimp-v1>
 ```
 
-<a href="/docs/gettingstarted.md"><h6>Get Started</h6></a>
