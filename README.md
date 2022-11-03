@@ -21,4 +21,7 @@
    10th grade highschool student and semi full time swimmer
   </li>
  </ul>
+ <h1>Projects</h1>
+ <p> Currently working on Nimp Markup Lang, Which  extends html</p>
+ <p>Building my own framework </p>
  </body>
