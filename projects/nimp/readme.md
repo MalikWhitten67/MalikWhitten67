@@ -16,3 +16,5 @@
   <utils-text font="Roboto" Color="Red" Value="This is red text with a nice font">
 </nimp-v1>
 ```
+
+<a href="./docs/getstarted.md"><h1>Get Started</h1></a>
