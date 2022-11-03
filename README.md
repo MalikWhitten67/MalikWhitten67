@@ -4,7 +4,7 @@
   <div id="badges">
  
   <img src="https://img.shields.io/github/languages/top/MalikWhitten67/MalikWhitten67?logo=HTML&style=flat-square" alt="Html Badge"/>
-  <img src="https://img.shields.io/badge/Javascript-Js-yellow" alt="Js Badge"/>
+  <img src="https://img.shields.io/badge/Javascript-js-brightgreen?style=for-the-badge&logo=javascript" alt="Js Badge"/>
    <img src="https://img.shields.io/badge/CSS-css-yellow" alt="CSS Badge"/>
 </div>
  <h3><strong>Where I am From</strong></h3>
