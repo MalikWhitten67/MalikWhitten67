@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+  <head>
+      <!--these will not render util if nimp-import does not have a package = to utils-->
+      <nimp-import package="utils" extension="bungie" viewport="4" ></nimp-import >
+ 
+        <link rel="stylesheet" href="style.css">
+ 
+  </head>
+
+<body style="overflow:hidden">
+  <nimp-v1  mode="dark" extension="comment" comment="these are nimp comments blah blah">
+  
+  <nimp-package file="utils.html"></nimp-package>
+
+
+  
+   
+  <div>
+   
+   
+     
+    </utils-text> 
+  </div>
+  
+  <div>
+<utils-text style=" "  font="Roboto" class=" " size="3"  color="#4E4E4E" value="Nimp" ></utils-text>
+</div>
+</div>
+ <nimp-pkg package-name="bog">
+  <nimp-import package="utils"author="your name" license="your license">
+   <utils-text value="puppy"></utils-text>
+  </nimp-import>
+ </nimp-pkg>
+<utils-text font="Roboto" class="  er " size="3"  color="#4E4E4E" value="Extensive Markup Lang Built on Bungie Framework" ></utils-text> </center>
+   </div>
+ 
+   <bg-card style="margin-top:500px;  width:2000px;left:-1220px; overflow:hidden;top:-200px; position:relative" color="dark">
+ 
+    <utils-text color="white" font="Roboto" class="reg" value="Nimp redefines bungie by embedding customizability within elements"></utils-text>
+    <bg-code color="light">
+      <code>
+      <utils-text color="black" value="<bg-code>Bungie code block</bg-code>"></utils-text>
+    </code>
+    <div id="chiru"></div>
+    </bg-code id="chiru">
+   
+   </bg-card>
+   <center></center><bg-button color="primary"  style="  margin-left:710px;margin-top:500px;  position: absolute;;" color="dark"  ><a href="utils.html"><utils-text font="Roboto"   text-style="bold" color="white" value="hello"></utils-text></a></bg-button>
+   
+</nimp-v1>
