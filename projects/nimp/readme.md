@@ -2,6 +2,8 @@
 
 <p>An Extensive Markup Lang</p>
 
+<h4>Example Of Nimp:</h4>
+
 ```html
 <head>
 <nimp-import package="utils" extension="bungie" viewport="4" ></nimp-import >
