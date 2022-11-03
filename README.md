@@ -23,5 +23,6 @@
  </ul>
  <h1>Projects</h1>
  <p> Currently working on Nimp Markup Lang, Which  extends html</p>
- <p>Building my own framework </p>
+ <p>Building my own CSS framework </p>
+ <p>Aswell as scratch for web </p>
  </body>
