@@ -27,4 +27,4 @@
  <p>Aswell as scratch for web </p>
  </body>
  <h1>My Stats</h1>
- [![Maliks GitHub stats](https://github-readme-stats.vercel.app/api?username=MalikWhitten67)](https://github.com/MalikWhitten67/github-readme-stats)
+ [!Maliks GitHub stats](https://github-readme-stats.vercel.app/api?username=MalikWhitten67)](https://github.com/anuraghazra/github-readme-stats)
