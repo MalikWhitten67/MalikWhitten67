@@ -1,6 +1,6 @@
 <h1>What is Nimp?</h1>
 
-<p>An Extensive Markup Lang</p>
+<p>An Extensive HTML Markup Lang - Built for Production </p>
 
 <h4>Example Of Nimp:</h4>
 
