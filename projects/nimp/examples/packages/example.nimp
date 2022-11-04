@@ -1,0 +1,19 @@
+
+ <nimp-v1 from-nimp-import = "n">
+ <!--n-import is availible if nimps main class is extended to n-->
+<n-import from-n-import-package = "utils"></n-import>
+
+<!--print is now avaliable if utils are imported!-->
+ 
+<u-print value="he"> </u-print>
+<!--- you can use nimp variables to store values inside them this can be used anywhere in your code!
+<u-var variable="context">
+  <code>stored nimp code inside of variable</code>
+</u-var>
+
+<!----To  print variable simple do--->
+<u-print var="context"></u-print>
+ </n-import>
+ 
+ 
+ </nimp-v1>
