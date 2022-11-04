@@ -6,7 +6,7 @@
 <!--print is now avaliable if utils are imported!-->
  
 <u-print value="he"> </u-print>
-<!--- you can use nimp variables to store values inside them this can be used anywhere in your code!
+<!--- you can use nimp variables to store values inside them this can be used anywhere in your code!--->
 <u-var variable="context">
   <code>stored nimp code inside of variable</code>
 </u-var>
