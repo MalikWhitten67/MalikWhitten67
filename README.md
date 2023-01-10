@@ -24,8 +24,9 @@
   </li>
  </ul>
  <h1>Projects</h1>
- <p> Currently working on Nimp Markup Lang, Which  extends html</p>
- <p>Building my own CSS framework </p>
+ <span>Postr</span>
+ <p>https://postr.rf.gd/</p>
+ <p>Trimego Frontend Site [undisclosed] </p>
  <p>Aswell as scratch for web </p>
  </body>
  <h1>My Stats</h1>
