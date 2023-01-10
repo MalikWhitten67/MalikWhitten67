@@ -17,7 +17,7 @@
    My name is Malik
   </li>
   <li>
-   been a frontend developer for over 7 months
+   been a frontend developer for over 9 months
   </li>
   <li>
    10th grade highschool student and semi full time swimmer
