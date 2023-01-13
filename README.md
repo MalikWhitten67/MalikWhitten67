@@ -31,5 +31,5 @@
  </body>
  <h1>My Stats</h1>
 <center><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MalikWhitten67&show_icons=true&theme=transparent">
-<img style="position:relative; margin-left:200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?/top-langs/?username=MalikWhitten67&exclude_repo=github-readme-stats,MalikWhitten67.github.io">
+<img style="position:relative; margin-left:200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?/top-langs/username=MalikWhitten67&exclude_repo=github-readme-stats,MalikWhitten67.github.io">
 </center>
