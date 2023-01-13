@@ -23,7 +23,9 @@
    10th grade highschool student and semi full time swimmer
   </li>
   <li>
-   <a href="http://malik.isadev.ga/">My Personal Website</a>
+   <span>My Personal Website</span>
+   <br>
+   http://malik.isadev.ga/
   </li>
  </ul>
  <h1>Projects</h1>
