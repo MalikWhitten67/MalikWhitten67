@@ -33,9 +33,8 @@
  </ul>
  <h1>Projects</h1>
  <span>Postr</span>
- <p>https://postr.rf.gd/</p>
- <p>Trimego Frontend Site [undisclosed] </p>
- <p>Aswell as scratch for web </p>
+ <p>https://postr.rf.gd/ - safe social media platform</p>
+ <p> scratch for web - build websites fast using blocks! </p>
  </body>
  <h1>My Stats</h1>
 <center><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MalikWhitten67&show_icons=true&theme=transparent">
