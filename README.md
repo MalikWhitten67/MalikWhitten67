@@ -17,7 +17,7 @@
    My name is Malik
   </li>
   <li>
-   9 months of computerscience & software engineering experience 
+  1 year of computerscience & software engineering experience 
   </li>
   <li>
    I love love love js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" width="20">
