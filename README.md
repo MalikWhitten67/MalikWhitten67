@@ -28,7 +28,7 @@
   <li>
    <span>My Personal Website</span>
    <br>
-   http://malik.isadev.ga/
+   https://malik.isadev.ga/
   </li>
  </ul>
  <h1>Projects</h1>
