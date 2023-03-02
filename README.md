@@ -33,7 +33,7 @@
  </ul>
  <h1>Projects</h1>
  <span>Postr</span>
- <p>https://www.poster-inc.me/ - safe social media platform</p>
+ <p>https://www.postr-inc.me/ - safe social media platform</p>
  <p> scratch for web - build websites fast using blocks! </p>
  <p><a href="https://github.com/MalikWhitten67/Monoco-Code-Editor">Monoco Code Editor</a> <img src="https://user-images.githubusercontent.com/65188863/216860584-2c03afd7-2911-4d29-8e4d-0069d3e698b1.png" width="20"> 
  </body>
