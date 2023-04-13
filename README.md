@@ -1,43 +1,36 @@
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<body>
- <h1>About Me</h1>
- <h3>Languages</h3>
-  <div id="badges">
- 
-  <img src="https://img.shields.io/badge/HTML-Markup-orange?style=for-the-badge&logo=HTML" alt="Html Badge"/>
-  <img src="https://img.shields.io/badge/Javascript-js-brightgreen?style=for-the-badge&logo=javascript" alt="Js Badge"/>
-   <img src="https://img.shields.io/badge/CSS-%20StyleSheet-yellow?style=for-the-badge&logo=SCASS" alt="CSS Badge"/>
-   <img src="https://img.shields.io/badge/CSharp-salmon?style=for-the-badge&logo=C#"/>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
- <h3><strong>Where I am From</strong></h3>
- <p>United States</p>
- <h1>Overview</h1>
- <ul>
-  <li>
-   My name is Malik
-  </li>
-  <li>
-  1 year of computerscience & software engineering experience 
-  </li>
-  <li>
-   I love love love js <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" width="20">
-  </li>
-  <li>
-   10th grade highschool student and semi full time swimmer
-  </li>
-  <li>
-   <span>My Personal Website</span>
-   <br>
-   https://malik.isadev.ga/
-  </li>
- </ul>
- <h1>Projects</h1>
- <span>Postr</span>
- <p>https://www.postr-inc.me/ - safe social media platform</p>
- <p> scratch for web - build websites fast using blocks! </p>
- <p><a href="https://github.com/MalikWhitten67/Monoco-Code-Editor">Monoco Code Editor</a> <img src="https://user-images.githubusercontent.com/65188863/216860584-2c03afd7-2911-4d29-8e4d-0069d3e698b1.png" width="20"> 
- </body>
- <h1>My Stats</h1>
-<center><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MalikWhitten67&show_icons=true&theme=transparent">
-<img style="position:relative; margin-left:200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MalikWhitten67/top-langs">
-</center>
+
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/47FfbwWohqZyjmWQD6/giphy.gif?cid=ecf05e47i76n9sduixs3hxhzb4di2buwi1drjwl12be18a8a&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://www.postr-inc.me/assets/img/round.png" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/M/M/blob/output/snake.svg" alt="Snake animation" />
+
+###
