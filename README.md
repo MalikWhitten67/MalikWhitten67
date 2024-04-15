@@ -56,6 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/Postr-Inc/Vader.js/main/logo.png" height="60" alt="vnative logo"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" height="60" alt="java logo" />
 </div>
 
 ###
