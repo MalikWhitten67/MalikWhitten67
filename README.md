@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Im currently a junior, located in the us.<br><br>- 🔭 I’m working to become a software engineer<br>- 📚 Currently working/studying software engineering<br>- ⚡ In my free time I work on several projects built to improve someone's workflow or life!</p>
+<p align="left">Im currently a college freshman, located in the us.<br><br>- 🔭 I’m working to become a software engineer<br>- 📚 Currently working/studying software engineering<br>- ⚡ In my free time I work on several projects built to improve someone's workflow or life!</p>
 
 ###
 
