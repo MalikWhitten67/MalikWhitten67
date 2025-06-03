@@ -22,14 +22,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Im currently a college freshman, located in the us.<br><br>- 🔭 I’m working to become a software engineer<br>- 📚 Currently working/studying software engineering<br>- ⚡ In my free time I work on several projects built to improve someone's workflow or life!</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
