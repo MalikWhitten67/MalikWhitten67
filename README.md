@@ -1,65 +1,47 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/65188863?s=400&u=165c3a6b45c591e402e90915b3a5372ebb11fc34&v=4"  />
-</div>
-
-###
+---
 
 <div align="center">
-  <a href="malikwhitterb@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  <img height="150" src="https://avatars.githubusercontent.com/u/65188863?s=400&u=165c3a6b45c591e402e90915b3a5372ebb11fc34&v=4" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MalikWhitten67.MalikWhitten67&"  />
-</div>
+<h1 align="center">Hey there 👋</h1>
 
-###
+I'm Malik Whitten, a passionate software engineer with a strong foundation in backend development, system architecture, and IT infrastructure. Currently, I serve as an IT Specialist Intern at the Special School District, where I manage and optimize internal systems to enhance operational efficiency.
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+### 🔧 Technologies & Tools
 
-<h3 align="left">🛠 Language and tools</h3>
+I work with a diverse set of technologies to build scalable and efficient systems:
 
-###
+* **Backend & Full-Stack Development:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="Sequelize" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/Postr-Inc/Vader.js/main/logo.png" height="60" alt="vnative logo"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" height="60" alt="java logo" />
-</div>
+* **Infrastructure & DevOps:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
 
-###
+* **UI/UX & Styling:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+### 🚀 Current Projects
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MalikWhitten67&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+* **Postly:**
+  An open-source social media platform designed with scalability and performance in mind. Built using Next.js, React, and PostgreSQL, Postly aims to provide a seamless user experience with efficient data handling and real-time updates.
 
-###
+* **Hapta:**
+  A backend framework developed to handle caching, load balancing, and modern authentication at scale. Hapta is designed to optimize performance and reliability, ensuring that applications can handle high traffic efficiently.
+
+---
+
+### 📈 GitHub Stats
+
+![Malik's GitHub Stats](https://streak-stats.demolab.com?user=MalikWhitten67\&locale=en\&mode=daily\&theme=dark\&hide_border=false\&border_radius=5\&order=3)
+
+---
+
+### 📫 Get in Touch
+
+Feel free to reach out via email at [malikwhitterb@gmail.com](mailto:malikwhitterb@gmail.com) for collaboration opportunities, project discussions, or just to connect!
+
+--- 
