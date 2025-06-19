@@ -24,16 +24,6 @@ I work with a diverse set of technologies to build scalable and efficient system
 
 ---
 
-### 🚀 Current Projects
-
-* **Postly:**
-  An open-source social media platform designed with scalability and performance in mind. Built using Next.js, React, and PostgreSQL, Postly aims to provide a seamless user experience with efficient data handling and real-time updates.
-
-* **Hapta:**
-  A backend framework developed to handle caching, load balancing, and modern authentication at scale. Hapta is designed to optimize performance and reliability, ensuring that applications can handle high traffic efficiently.
-
----
-
 ### 📈 GitHub Stats
 
 ![Malik's GitHub Stats](https://streak-stats.demolab.com?user=MalikWhitten67\&locale=en\&mode=daily\&theme=dark\&hide_border=false\&border_radius=5\&order=3)
